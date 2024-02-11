@@ -1,11 +1,10 @@
 import React from "react";
+import Header from "./Header";
 
 const Browse = () => {
   return (
     <div className="">
-      {/* <div className="backgroundImage absolute h-screen w-screen"></div>
-
-      <div className="absolute top-20 left-40 text-">Login page</div> */}
+      <Header />
     </div>
   );
 };
